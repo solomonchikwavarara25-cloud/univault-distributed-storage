@@ -12,7 +12,7 @@
 | Tawanaishe B Chirenje | n02640892x |  n02640892x | System testing and evaluation |
 | Mbaliyethu B Ncube | N02421972V | Mbaliyethu05 |  Present findings |
 | Malvin Makiwa| n02654040x | Malvin45 | Build |
-| Member 10| To be filled | To be filled | To be filled |
+| Mukodza Taurai K| n02642099y | TMukodza | Build |
 | Member 11| To be filled | To be filled | To be filled |
 | Member 12| To be filled | To be filled | To be filled |
 | Member 13| To be filled | To be filled |  To be filled|
